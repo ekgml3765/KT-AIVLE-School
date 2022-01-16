@@ -1,2 +1,2 @@
-# KT-AivleSchool
-KT Aivle School - AI Track
+# KT AIVLE School
+KT AIVLE School - AI Track
